@@ -5,6 +5,12 @@ out/
 # Dependencies
 node_modules/
 
+# Internal docs & design references (not for public repo)
+docs/
+stitch_aathish_rao_portfolio_design/
+REPRODUCTION-GUIDE.md
+*.pdf
+
 # Build artifacts
 *.tgz
 
